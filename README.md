@@ -48,7 +48,7 @@
 
 如果你在使用过程中遇到任何问题，欢迎通过以下方式联系：
 * **官网工单：** [提交支持工单](https://v2u.3ai.best/)
-* **Telegram 频道：** @[你的频道ID]
+* **Telegram 频道：** [@lifeng_1688](https://t.me/lifeng_1688)
 
 ---
 
